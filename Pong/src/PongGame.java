@@ -15,6 +15,7 @@ public class PongGame {
 	private int height =0;
 	
 
+	
 	// No constructors since will never create an object of this class
 
 	// Getters
